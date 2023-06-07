@@ -1,0 +1,15 @@
+:root {
+  // base
+  --font-family-title: "UbuntuBold";
+  --font-family-originl: "UbuntuMedium";
+  --font-family-text: "UbuntuLight";
+
+
+  // container
+  --content-width: 1410px;
+  --container-offset: 15px;
+  --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
+
+  // colors
+  --light-color: #fff;
+}
